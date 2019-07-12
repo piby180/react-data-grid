@@ -1,4 +1,7 @@
 {
+  "name": "react-data-grid",
+  "version": "1.0.0",
+  "description": "",
   "private": true,
   "license": "MIT",
   "scripts": {
