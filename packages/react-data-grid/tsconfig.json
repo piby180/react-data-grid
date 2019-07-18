@@ -4,9 +4,9 @@
     "allowJs": false,
     "declaration": true,
     "outDir": "lib",
-     "rootDir": "src"
+     "rootDir": "lib"
   },
   "files": [
-    "src/index.ts"
+    "lib/index.ts"
   ]
 }
