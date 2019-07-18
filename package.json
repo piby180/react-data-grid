@@ -8,7 +8,7 @@
     "docs": "node docs/utils/docsGen.js",
     "test": "jest",
     "test-dev": "jest --watch",
-    "prepare": "lerna bootstrap --no-ci && lerna run build && lerna run beforepublish",
+    "postinstall": "lerna bootstrap && lerna run beforepublish && lerna run build ",
     "prebuild": "node tools/buildStylesheets.js",
     "build": "lerna run build",
     "build-commonjs": "lerna run build-commonjs",
