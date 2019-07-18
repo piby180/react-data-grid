@@ -14,9 +14,7 @@
   "compilerOptions": {
     "noEmit": true
   },
-    "include": [
-   "./src"
- ],
+
   "files": [
     "packages/react-data-grid/src/index.ts",
     "packages/react-data-grid-addons/src/index.ts"
