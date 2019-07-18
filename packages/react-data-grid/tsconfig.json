@@ -3,9 +3,10 @@
   "compilerOptions": {
     "allowJs": false,
     "declaration": true,
-    "outDir": "lib"
+    "outDir": "lib",
+     "rootDir": "src"
   },
   "files": [
-    "lib/index.ts"
+    "src/index.ts"
   ]
 }
