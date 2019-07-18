@@ -16,7 +16,7 @@
   },
 
   "files": [
-    "packages/react-data-grid/src/index.ts",
-    "packages/react-data-grid-addons/src/index.ts"
+    "packages/react-data-grid/lib/index.ts",
+    "packages/react-data-grid-addons/lib/index.ts"
   ]
 }
